@@ -4,8 +4,6 @@
 
 This repository contains the source code for the E-Learn platform. The platform aims to make education accessible and engaging through free online courses, sample papers, and quizzes. Developed using HTML, CSS, JavaScript, and Firebase, the platform offers a smooth user experience, making learning fun and easy.
 
-Hosted at: [E-Learn](https://e-learn-e29ad.web.app/)
-
 ## Features
 
 - **Courses**: Learn topics like Data Structures, Algorithms, and more.
